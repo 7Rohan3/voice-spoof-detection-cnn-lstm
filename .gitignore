@@ -1,0 +1,22 @@
+# Dataset (too large)
+dataset_full/
+dataset/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files (optional but large)
+spoof_model.h5
+features.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+.env
+
+# Results images (optional)
+*.png
